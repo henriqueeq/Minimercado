@@ -8,4 +8,4 @@ Este é um sistema web para um minimercado, apresentando categorias de produtos 
 - Serviços disponíveis (Entrega em domicílio e Retirada no estabelecimento).
 
 ## Como acessar:
-[Acesse o site aqui](https://seu-usuario.github.io/minimercado/)
+[Acesse o site aqui](https://henriqueeq.github.io/minimercado/)
